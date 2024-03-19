@@ -62,7 +62,7 @@ export default props => {
             variant="styles.navitem"
             sx={{ display: ['none', 'block'], fontWeight: 'mediumbold' }}
           >
-            AngelHacks
+            HackHounds
           </A>
         </Link>
         <Box sx={{ mx: 'auto' }} />
@@ -138,7 +138,7 @@ export default props => {
             }}
           >
             <Text sx={{ fontFamily: 'heading', fontSize: 0, color: 'inherit' }}>
-              AngelHacks, event run by Ad Astra Hack Club
+              HackHounds, event run by Loyola ACM
             </Text>
             <Text
               sx={{
@@ -148,9 +148,8 @@ export default props => {
                 mb: 0
               }}
             >
-              Fiscally sponsored by The Hack Foundation.
+              Fiscally sponsored by Loyola University Maryland.
               <br />
-              Nonprofit EIN: 81-2908499.
             </Text>
           </Box>
         </Box>
