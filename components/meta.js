@@ -1,8 +1,8 @@
 import Head from 'next/head'
 
 export default ({
-  title = 'AngelHacks – Dedicated to giving back!',
-  description = 'A 12-hour hackathon for middle and high schoolers in Los Angeles.',
+  title = 'HackHounds – Loyola\'s First Hackathon',
+  description = 'A 24-hour hackathon for college students in the Baltimore Area',
   image = 'https://angelhacks.org/static/banner-inverted.png',
   url = 'https://angelhacks.org'
 }) => (
