@@ -20,7 +20,7 @@ export const palette = {
   snow: '#f9fafc',
   white: '#ffffff',
   // brand
-  primary: '#ffb400',
+  primary: '#005a3c',
   primaryWash: '#ffdc89',
   /*
   alt: '#007a87',

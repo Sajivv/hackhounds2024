@@ -8,16 +8,16 @@ import theme from './theme'
 const data = {
   sponsors: [
     {
-      name: 'Repl.it',
-      link: 'https://repl.it',
+      name: 'Commercial Lynks Inc',
+      link: 'https://commerciallynks.org',
       image:
-        'https://cdn.glitch.com/747f5921-6fdc-45db-8eaa-ac12523e0e6c%2Freplit.png?v=1566159656031'
+        './static/online_cli.png'
     },
     {
-      name: 'Hack Club Bank',
-      link: 'https://hackclub.com/bank',
+      name: 'Big Sky Venture Group',
+      link: 'https://www.bigskyventuregroup.com',
       image:
-        'https://cdn.glitch.com/747f5921-6fdc-45db-8eaa-ac12523e0e6c%2Fhackclub-bank.svg?v=1566159701206'
+        'https://static.wixstatic.com/media/31df41_c4f5a6dd327b47f8b57e31117d384521~mv2.png/v1/fill/w_291,h_291,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/bsvg%20circle_edited.png'
     },
     {
       name: 'Frank.ly',
