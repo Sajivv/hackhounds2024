@@ -112,6 +112,7 @@ export default props => {
           }}
         >
           <Flex sx={{ justifyContent: 'center' }}>
+            {/* update this if we ever get an instagram
             <A
               href="https://instagram.com/angelhacks.la"
               title="Instagram"
@@ -119,14 +120,15 @@ export default props => {
             >
               <Icon glyph="instagram" size={36} />
             </A>
+            */}
             <A
-              href="https://github.com/ClaireBookworm/angelhacks"
+              href="https://github.com/Sajivv/hackhounds2024"
               title="GitHub"
               sx={{ mx: 2 }}
             >
               <Icon glyph="github" size={36} />
             </A>
-            <A href="mailto:claire@angelhacks.org" title="Email" sx={{ mx: 2 }}>
+            <A href="mailto:jsgnanasekaran@loyola.edu" title="Email" sx={{ mx: 2 }}>
               <Icon glyph="email" size={36} />
             </A>
           </Flex>

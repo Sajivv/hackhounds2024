@@ -4,7 +4,7 @@ export default ({
   title = 'HackHounds – Loyola\'s First Hackathon',
   description = 'A 24-hour hackathon for college students in the Baltimore Area',
   image = 'https://angelhacks.org/static/banner-inverted.png',
-  url = 'https://angelhacks.org'
+  url = 'https://hackhounds.org'
 }) => (
   <Head>
     <title>{title}</title>
@@ -12,7 +12,7 @@ export default ({
     <meta name="twitter:title" content={title} />
     <meta name="og:url" content={url} />
     <meta property="og:type" content="website" />
-    <meta property="og:site_name" content="AngelHacks" />
+    <meta property="og:site_name" content="HackHounds" />
     <meta name="twitter:site" content="@angelhacks_la" />
     <meta name="description" content={description} />
     <meta property="og:description" content={description} />
