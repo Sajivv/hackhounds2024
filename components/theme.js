@@ -19,8 +19,8 @@ export const palette = {
   smoke: '#e0e6ed',
   snow: '#f9fafc',
   white: '#ffffff',
-  // brand
-  primary: '#005a3c',
+  // banner text
+  primary: '#0aa775',
   primaryWash: '#ffdc89',
   /*
   alt: '#007a87',
@@ -37,7 +37,7 @@ export const palette = {
   cool: '#00bdde',
   coolWash: '#7cecff'
   */
-  alt: '#13cfbf',
+  alt: '#0aa775',
   altDark: '#05386b',
   altLight: '#6ed5fa',
   altWash: '#379683',

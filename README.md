@@ -1,5 +1,4 @@
-# AngelHacks 2019 site
+# HackHounds 2024 site
 
-[**angelhacks.org**](https://angelhacks.org)
+[**hackhounds.org**](https://hackhounds.org)
 
-MIT License
