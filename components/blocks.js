@@ -20,7 +20,8 @@ export const Banner = props => (
           fontWeight: 'bold',
           lineHeight: 'tight',
           textShadow: '0 0 5px currentColor',
-          mb: 3
+          mb: 3,
+          fontFamily: 'Magneto'
         },
         h2: {
           color: 'bannerColorAlt',
