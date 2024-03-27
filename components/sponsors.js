@@ -11,7 +11,7 @@ const data = {
       name: 'Commercial Lynks Inc',
       link: 'https://commerciallynks.org',
       image:
-        './static/online_cli.png'
+        './static/logos/CLI_logo.png'
     },
     {
       name: 'Big Sky Venture Group',
@@ -20,32 +20,52 @@ const data = {
         'https://static.wixstatic.com/media/31df41_c4f5a6dd327b47f8b57e31117d384521~mv2.png/v1/fill/w_291,h_291,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/bsvg%20circle_edited.png'
     },
     {
-      name: 'Frank.ly',
-      link: 'https://frank.ly',
-      image: 'https://angelhacks.org/static/frank-logo.png'
+      name: 'Association for Computing Machinery',
+      link: 'https://www.loyola.edu/academics/computer-science/',
+      image: './static/logos/acm.png'
     },
 
     {
-      name: 'Ad Astra',
-      link: 'https://adastraschool.org',
-      image: 'https://angelhacks.org/static/adastra.png'
+      name: 'Cyberhounds',
+      link: 'https://bridge.loyola.edu/cybersecurity/web_officers',
+      image: './static/logos/cyberhounds.jpg'
     },
     {
-      name: 'Balsamiq',
-      link: 'https://balsamiq.com',
-      image: 'https://angelhacks.org/static/balsamiq-logo.png'
+      name: 'Math and Stat Club',
+      link: 'https://bridge.loyola.edu/mathstat/web_officers',
+      image: './static/logos/mathstat.jpeg'
+    },
+    {
+      name: 'Women in Stem',
+      link: 'https://bridge.loyola.edu/womentech/web_officers',
+      image: './static/logos/Women_in_Technology_Club.png'
+    },
+    {
+      name: 'Minorities in Stem',
+      link: 'https://bridge.loyola.edu/minoritiesinstem/web_officers',
+      image: './static/logos/MIS.png'
+    },
+    {
+      name: 'NAS',
+      link: 'https://www.loyola.edu/loyola-college-arts-sciences/divisions/natural-applied-sciencesc:\Users\Sajiv\Downloads\CLI_logo-removebg-preview.png',
+      image: './static/logos/NAS.png'
+    },
+    {
+      name: 'SCI&E',
+      link: 'https://www.loyola.edu/department/center-innovation-entrepreneurship/',
+      image: './static/logos/sci&e.png'
     }
   ],
   additionalSupport: [
     {
-      name: 'Sketch',
-      link: 'https://sketchapp.com/',
+      name: 'IEEE',
+      link: 'https://bridge.loyola.edu/ieee/home/',
       image: 'https://angelhacks.org/static/sketch-logo.png'
     },
     {
-      name: 'Shawee',
-      link: 'https://shawee.io/',
-      image: 'https://angelhacks.org/static/shawee-logo.png'
+      name: 'CS Department',
+      link: 'https://www.loyola.edu/academics/computer-science/',
+      image: './static/logos/CS.png'
     }
   ]
 }
