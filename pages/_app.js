@@ -26,6 +26,7 @@ export default class extends App {
         <Meta />
         <Head>
           <link href="https://fonts.googleapis.com/css?family=Nunito:400,700,900" rel="stylesheet" />
+          <link rel="stylesheet" href="https://use.typekit.net/tgm8htm.css"></link>
         </Head>
         <ThemeProvider theme={theme}>
           <Global
