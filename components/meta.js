@@ -3,7 +3,7 @@ import Head from 'next/head'
 export default ({
   title = 'HackHounds – Loyola\'s First Hackathon',
   description = 'A 24-hour hackathon for college students in the Baltimore Area',
-  image = 'https://angelhacks.org/static/banner-inverted.png',
+  image = './static/HackHoundsLogo.png',
   url = 'https://hackhounds.org'
 }) => (
   <Head>

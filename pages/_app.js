@@ -27,6 +27,7 @@ export default class extends App {
         <Head>
           <link href="https://fonts.googleapis.com/css?family=Nunito:400,700,900" rel="stylesheet" />
           <link rel="stylesheet" href="https://use.typekit.net/tgm8htm.css"></link>
+          <link rel="icon" href="./static/favicon.ico" sizes="any" />
         </Head>
         <ThemeProvider theme={theme}>
           <Global
